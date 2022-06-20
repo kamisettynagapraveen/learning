@@ -18,7 +18,7 @@ spec:
         app: firstdeploy
     spec:
       containers:
-      - image: srikanthhanagud/simplewebapi:v2
+      - image: 995939/minikube:v2
         name: simplewebapi
         resources: {}
 status: {}
